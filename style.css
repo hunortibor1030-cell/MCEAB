@@ -1,0 +1,35 @@
+body {
+    background-color: rgb(2, 0, 100);
+    color: white;
+    font-family: Arial;
+    font-size: large;
+}
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+button {
+    background-color: lime;
+    color: black;
+    padding: 15px 25px;
+    font-size: 15px;
+    border: none;
+    border-radius: 10px;
+}
+
+button:hover {
+    background-color: green;
+    cursor: pointer;
+}
